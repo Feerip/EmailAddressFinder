@@ -14,11 +14,11 @@ namespace EmailAddressFinder
         {
 
             string path = string.Empty;
-            Console.SetWindowSize(100, 50);
+            Console.SetWindowSize(100, 46);
 
             try
             {
-                Console.WriteLine("EmailAddressFinder 1.0");
+                Console.WriteLine("EmailAddressFinder 1.1");
                 Console.WriteLine("By Phillip Smith");
                 Console.WriteLine("---------");
                 Console.WriteLine("A small program created to give you a list of unique");
@@ -37,7 +37,7 @@ namespace EmailAddressFinder
                 Console.WriteLine();
                 Console.WriteLine("Instructions (Quick):");
                 Console.WriteLine("1. Drag the text file you would like to process directly");
-                Console.WriteLine("   onto the program file (EmailAddressFinder1_0.exe) for this program.");
+                Console.WriteLine("   onto the program file (EmailAddressFinder1_1.exe) for this program.");
                 Console.WriteLine("   It will instantly process the file without needing you");
                 Console.WriteLine("   to press enter.");
                 Console.WriteLine();
